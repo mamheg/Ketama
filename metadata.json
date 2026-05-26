@@ -1,0 +1,6 @@
+{
+  "name": "Ketama Loyalty",
+  "description": "Loyalty card mini-app for Ketama Lounge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
